@@ -1,0 +1,12 @@
+SeqID,
+Date Of Stop,
+Time Of Stop,
+Agency,SubAgency,#description of area where violation accurred 
+Description,#description violation I can use querying to find red light specific ones here
+Location,Latitude,Longitude,
+Accident,Belts,Personal Injury,Property Damage,Fatal,Commercial License,HAZMAT,Commercial Vehicle,Alcohol,Work Zone,Search Conducted,#boolean fields
+Search Disposition,Search Outcome,Search Reason,Search Reason For Stop,Search Type,Search Arrest Reason,State,#Search details
+VehicleType,Year,Make,Model,Color,#Vehicle information
+Violation Type,Charge,Article,Contributed To Accident,
+Race,Gender,Driver City,Driver State,DL State,#Driver details
+Arrest Type,Geolocation
